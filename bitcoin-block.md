@@ -1,0 +1,1 @@
+[https://bitcoin.org/en/developer-reference#block-headers](https://bitcoin.org/en/developer-reference#block-headers)
